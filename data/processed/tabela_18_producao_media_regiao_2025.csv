@@ -1,0 +1,6 @@
+regiao,volume_litros,n_cervejarias,producao_media_litros,ano_referencia,fonte
+Nordeste,3802222465.12,130,29247865.12,2025,"Anuário da Cerveja 2026, Tabela 18, p. 51"
+Centro-Oeste,1054248799.25,98,10757640.81,2025,"Anuário da Cerveja 2026, Tabela 18, p. 51"
+Norte,215667721.98,44,4901539.14,2025,"Anuário da Cerveja 2026, Tabela 18, p. 51"
+Sul,2447510384.25,759,3224651.36,2025,"Anuário da Cerveja 2026, Tabela 18, p. 51"
+Sudeste,8168433821.09,923,8849874.13,2025,"Anuário da Cerveja 2026, Tabela 18, p. 51"

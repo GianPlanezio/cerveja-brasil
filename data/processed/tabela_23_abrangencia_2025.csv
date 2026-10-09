@@ -1,0 +1,6 @@
+abrangencia,volume_litros,pct_volume,variacao_pct,ano_referencia,fonte
+Microrregional (raio até 100 km),28574525.31,0.18,-18.34,2025,"Anuário da Cerveja 2026, Tabela 23, p. 56"
+Regional (raio >100km a 500km),72889348.79,0.46,-12.75,2025,"Anuário da Cerveja 2026, Tabela 23, p. 56"
+Nacional (>500 km ou no mínimo duas UF),13204006685.29,84.17,3.04,2025,"Anuário da Cerveja 2026, Tabela 23, p. 56"
+Nacional e Internacional,2354354537.9,15.01,-1.04,2025,"Anuário da Cerveja 2026, Tabela 23, p. 56"
+Somente Internacional,28258094.4,0.18,-12.28,2025,"Anuário da Cerveja 2026, Tabela 23, p. 56"
