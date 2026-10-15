@@ -116,7 +116,6 @@ streamlit run app/dashboard.py
 
 ## Próximos passos
 
-- Pedir ao MAPA, pela Lei de Acesso à Informação, séries históricas de produção por tipo de cerveja com uma base única de declarações.
 - Obter microdados anonimizados da declaração anual, para calcular o Gini real e a participação do puro malte por porte de cervejaria.
 - Incorporar preços ao consumidor por segmento, para responder à pergunta sobre valor.
 - Investigar a queda da importação de cerveja, de cerca de 50 milhões de litros por ano em 2015–2018 para cerca de 7 milhões a partir de 2023.
